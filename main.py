@@ -4,5 +4,5 @@ z = x + y
 w = 5 * x
 
 print(x)
-print(w)
+print(w + y)
 print(z)
